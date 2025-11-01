@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.z7087.tmpfixfvconflict.mixin",
+  "compatibilityLevel": "{{COMPATIBILITY_LEVEL}}",
+  "client": [
+    "MixinParticleS2CPacket"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

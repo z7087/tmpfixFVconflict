@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "tmpfixfvconflict",
+  "version": "${version}",
+  "name": "tmpfixFVconflict",
+  "license": "WTFPL",
+  "environment": "client",
+  "mixins": [
+    "tmpfixfvconflict.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15",
+    "minecraft": "${minecraft_dependency}",
+    "fabric-api": "*"
+  }
+}

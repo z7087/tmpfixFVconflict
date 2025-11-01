@@ -1,0 +1,1 @@
+hackfix for viaversion fabricapi conflict
