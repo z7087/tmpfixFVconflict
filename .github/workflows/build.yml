@@ -46,7 +46,7 @@ jobs:
   prerelease:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/crossversion-preprocessor-fallen'
+    if: github.ref == 'refs/heads/master'
     permissions:
       contents: write
 
